@@ -1,5 +1,5 @@
 # HCI_05
-
+## Mẫu thử game học gõ tốc ký theo bài hát
 ```sh
 Nguyễn Hải Anh - 20168619
 Nguyễn Kỳ Thông – 20168807
